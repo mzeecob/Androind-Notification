@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notificaton</string>
+    <string name="channel_name">Person Notification</string>
+    <string name="channel_description">Include All Personal Notification</string>
+    <string name="reply">Reply</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="downloadTitle">Download Image</string>
+    <string name="downloadText">Download in Progress</string>
+    <string name="downloadComplete">Download Complete</string>
+    <string name="directReplyTitle">Title</string>
+    <string name="directReplyText">Body</string>
+</resources>
